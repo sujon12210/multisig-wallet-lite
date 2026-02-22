@@ -1,0 +1,13 @@
+{
+  "name": "multisig-wallet-lite",
+  "version": "1.0.0",
+  "description": "Secure M-of-N Multi-Signature Wallet",
+  "main": "index.js",
+  "dependencies": {
+    "ethers": "^6.11.1"
+  },
+  "devDependencies": {
+    "hardhat": "^2.20.1",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
